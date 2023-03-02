@@ -1,0 +1,47 @@
+2023-03-02 20:22:46.171 [INFO] [gorm.go:38] : 连接mysql [root:xu1314@tcp(175.178.89.162:3306)/GinMasterReWi?charset=utf8&loc=Local&parseTime=true]
+2023-03-02 20:22:57.619 [INFO] [main.go:60] : 路由初始化完成
+2023-03-02 20:22:57.619 [INFO] [http_server.go:38] : HTTP Server listen: :3688
+2023-03-02 20:22:57.749 [INFO] [jobbase.go:146] : 2023-03-02 20:22:57 [INFO] JobCore start success.
+2023-03-02 20:31:40.274 [INFO] [log.go:34] [POST=/system/user/login] : 登录 ->267ms
+2023-03-02 20:31:40.600 [INFO] [log.go:34] [GET=/system/user/auth] : 认证信息 ->320ms
+2023-03-02 20:31:52.257 [INFO] [log.go:34] [GET=/system/dict/data/type] : 获取字典数据列表通过字典类型 ->63ms
+2023-03-02 20:31:52.259 [INFO] [log.go:34] [GET=/system/dict/data/type] : 获取字典数据列表通过字典类型 ->66ms
+2023-03-02 20:31:55.460 [INFO] [log.go:34] [GET=/system/dict/data/type] : 获取字典数据列表通过字典类型 ->63ms
+2023-03-02 20:34:07.068 [INFO] [gorm.go:38] : 连接mysql [root:xu1314@tcp(175.178.89.162:3306)/GinMasterReWi?charset=utf8&loc=Local&parseTime=true]
+2023-03-02 20:34:10.124 [INFO] [main.go:60] : 路由初始化完成
+2023-03-02 20:34:10.124 [INFO] [http_server.go:38] : HTTP Server listen: :3688
+2023-03-02 20:34:10.249 [INFO] [jobbase.go:146] : 2023-03-02 20:34:10 [INFO] JobCore start success.
+2023-03-02 20:34:16.695 [INFO] [log.go:34] [GET=/system/dict/data/type] : 获取字典数据列表通过字典类型 ->69ms
+2023-03-02 20:45:09.248 [INFO] [gorm.go:38] : 连接mysql [root:xu1314@tcp(175.178.89.162:3306)/GinMasterReWi?charset=utf8&loc=Local&parseTime=true]
+2023-03-02 20:45:12.237 [INFO] [main.go:60] : 路由初始化完成
+2023-03-02 20:45:12.237 [INFO] [http_server.go:38] : HTTP Server listen: :3688
+2023-03-02 20:45:12.372 [INFO] [jobbase.go:146] : 2023-03-02 20:45:12 [INFO] JobCore start success.
+2023-03-02 20:45:26.808 [INFO] [log.go:34] [GET=/system/dict/data/type] : 获取字典数据列表通过字典类型 ->58ms
+2023-03-02 20:45:26.846 [INFO] [log.go:34] [GET=/system/api/list] : 获取api分页列表 ->97ms
+2023-03-02 20:45:43.977 [INFO] [log.go:34] [GET=/system/dict/data/type] : 获取字典数据列表通过字典类型 ->56ms
+2023-03-02 20:45:44.019 [INFO] [log.go:34] [GET=/system/api/list] : 获取api分页列表 ->98ms
+2023-03-02 20:46:30.075 [INFO] [gorm.go:38] : 连接mysql [root:xu1314@tcp(175.178.89.162:3306)/GinMasterReWi?charset=utf8&loc=Local&parseTime=true]
+2023-03-02 20:46:31.575 [INFO] [main.go:60] : 路由初始化完成
+2023-03-02 20:46:31.575 [INFO] [http_server.go:38] : HTTP Server listen: :3688
+2023-03-02 20:46:31.714 [INFO] [jobbase.go:146] : 2023-03-02 20:46:31 [INFO] JobCore start success.
+2023-03-02 20:50:07.069 [INFO] [gorm.go:38] : 连接mysql [root:xu1314@tcp(175.178.89.162:3306)/GinMasterReWi?charset=utf8&loc=Local&parseTime=true]
+2023-03-02 20:50:09.685 [INFO] [main.go:60] : 路由初始化完成
+2023-03-02 20:50:09.685 [INFO] [http_server.go:38] : HTTP Server listen: :3688
+2023-03-02 20:50:09.820 [INFO] [jobbase.go:146] : 2023-03-02 20:50:09 [INFO] JobCore start success.
+2023-03-02 20:50:16.364 [ERROR] [log.go:31] [POST=/system/user/login] : 登录
+<-e errCode: 400, errMsg: 验证码认证失败
+2023-03-02 20:50:24.576 [ERROR] [log.go:31] [POST=/system/user/login] : 登录
+<-e errCode: 400, errMsg: 验证码认证失败
+2023-03-02 20:50:32.838 [INFO] [log.go:34] [POST=/system/user/login] : 登录 ->267ms
+2023-03-02 20:50:33.161 [INFO] [log.go:34] [GET=/system/user/auth] : 认证信息 ->317ms
+2023-03-02 20:52:23.265 [INFO] [gorm.go:38] : 连接mysql [root:xu1314@tcp(175.178.89.162:3306)/GinMasterReWi?charset=utf8&loc=Local&parseTime=true]
+2023-03-02 20:53:47.406 [INFO] [gorm.go:38] : 连接mysql [root:xu1314@tcp(175.178.89.162:3306)/GinMasterReWi?charset=utf8&loc=Local&parseTime=true]
+2023-03-02 20:54:07.003 [INFO] [main.go:60] : 路由初始化完成
+2023-03-02 20:54:07.003 [INFO] [http_server.go:38] : HTTP Server listen: :3688
+2023-03-02 20:54:07.187 [INFO] [jobbase.go:146] : 2023-03-02 20:54:07 [INFO] JobCore start success.
+2023-03-02 20:54:16.101 [INFO] [gorm.go:38] : 连接mysql [root:xu1314@tcp(175.178.89.162:3306)/GinMasterReWi?charset=utf8&loc=Local&parseTime=true]
+2023-03-02 20:54:29.683 [INFO] [main.go:60] : 路由初始化完成
+2023-03-02 20:54:29.683 [INFO] [http_server.go:38] : HTTP Server listen: :3688
+2023-03-02 20:54:29.820 [INFO] [jobbase.go:146] : 2023-03-02 20:54:29 [INFO] JobCore start success.
+2023-03-02 20:54:39.108 [INFO] [log.go:34] [POST=/system/user/login] : 登录 ->257ms
+2023-03-02 20:54:39.425 [INFO] [log.go:34] [GET=/system/user/auth] : 认证信息 ->310ms
