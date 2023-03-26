@@ -1,6 +1,6 @@
 {
 	"name": "Vue3MasterReWi",
-	"version": "1.2.0",
+	"version": "0.0.0",
 	"scripts": {
 		"dev": "vite --force",
 		"build": "vite build",
@@ -12,6 +12,7 @@
 		"@logicflow/core": "^1.1.26",
 		"@logicflow/extension": "^1.1.26",
 		"axios": "^0.26.1",
+		"codemirror": "^5.65.1",
 		"codemirror-editor-vue3": "^2.1.7",
 		"countup.js": "^2.1.0",
 		"cropperjs": "^1.5.12",
@@ -71,7 +72,7 @@
 		"not dead"
 	],
 	"bugs": {
-		"url": "https://github.com/Re-Wi/MasterReWi/issues"
+		"url": "https://github.com/PandaGoAdmin/PandaX/issues"
 	},
 	"engines": {
 		"node": ">=12.0.0",
@@ -88,6 +89,6 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Re-Wi/MasterReWi"
+		"url": "https://github.com/PandaGoAdmin/PandaX"
 	}
 }

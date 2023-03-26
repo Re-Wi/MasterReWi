@@ -21,7 +21,7 @@ export const newsInfoList: Array<object> = [
 	{
 		title: '[预览] 2020年12月08日，基于 vue3.x 版本后台模板的预览',
 		date: '12/08',
-		link: 'http://PandaGoAdmin.gitee.io/PandaUi-preview/#/login',
+		link: 'http://PandaGoAdmin.gitee.io/Vue3MasterReWi-preview/#/login',
 	},
 	{
 		title: '[预览] 2020年11月15日，基于 vue2.x 版本后台模板的预览',

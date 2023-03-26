@@ -287,7 +287,7 @@ export default {
               },
             },
             data: [
-              { name: "PandaUi", value: 520 },
+              { name: "Vue3MasterReWi", value: 520 },
               { name: "PandaX", value: 520 },
               { name: "next-admin", value: 500 },
               { name: "更名", value: 420 },

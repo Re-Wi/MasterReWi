@@ -1,6 +1,6 @@
-# <a href="" target="_blank">AdminUIVue3ReWi 更新日志</a>
+# <a href="" target="_blank">Vue3MasterReWi 更新日志</a>
 
-🎉🎉🔥 `AdminUIVue3ReWi` 
+🎉🎉🔥 `Vue3MasterReWi` 
 
 ## 0.0.0
 
