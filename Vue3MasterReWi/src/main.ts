@@ -13,12 +13,12 @@ import 'element-plus/dist/index.css';
 import '@/theme/index.scss';
 import mitt from 'mitt';
 import screenShort from 'vue-web-screen-shot';
+// @ts-ignore
 import VueGridLayout from 'vue-grid-layout';
 
+// @ts-ignore
 import XmForm from 'xmgo-vform'
-import 'xmgo-vform/dist/designer.style.css'  //引入VForm3样式
-
-import Codemirror from "codemirror-editor-vue3";
+import 'xmgo-vform/dist/designer.style.css'  //引入XmForm样式
 
 const app = createApp(App);
 const pinia = createPinia();
@@ -31,7 +31,6 @@ app
 	.use(router)
 	.use(ElementPlus, { i18n: i18n.global.t, size: "default" })
 	.use(XmForm)
-	.use(Codemirror)
 	.use(i18n)
 	.use(screenShort, { enableWebRtc: false })
     .use(VueGridLayout)

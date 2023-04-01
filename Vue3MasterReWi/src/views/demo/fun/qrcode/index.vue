@@ -35,7 +35,7 @@ export default {
 		// 初始化生成二维码
 		const initQrcode = () => {
 			new QRCode(proxy.$refs.qrcodeRef, {
-				text: `https://PandaGoAdmin.gitee.io/PandaUi-preview/#/login?t=${new Date().getTime()}`,
+				text: `https://PandaGoAdmin.gitee.io/Vue3MasterReWi-preview/#/login?t=${new Date().getTime()}`,
 				width: 125,
 				height: 125,
 				colorDark: '#000000',

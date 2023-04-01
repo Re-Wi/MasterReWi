@@ -6,7 +6,6 @@ import (
 	jobEntity "GinMasterReWi/apps/job/entity"
 	logEntity "GinMasterReWi/apps/log/entity"
 	resSourceEntity "GinMasterReWi/apps/resource/entity"
-	ruleEntity "GinMasterReWi/apps/rule/entity"
 	"GinMasterReWi/apps/system/entity"
 	"GinMasterReWi/pkg/global"
 	"github.com/XM-GO/PandaKit/biz"
@@ -49,8 +48,6 @@ func InitTable() {
 				flowEntity.FlowWorkStage{},
 				flowEntity.FlowWorkTask{},
 				flowEntity.FlowWorkTaskHistory{},
-
-				ruleEntity.RuleNotice{},
 			),
 			"初始化表失败")
 	}

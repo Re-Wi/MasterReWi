@@ -7,9 +7,9 @@
 package services
 
 import (
-    "GinMasterReWi/apps/{{.PackageName}}/entity"
+    "pandax/apps/{{.PackageName}}/entity"
     "github.com/XM-GO/PandaKit/biz"
-    "GinMasterReWi/pkg/global"
+    "pandax/pkg/global"
 )
 
 type (

@@ -5,7 +5,7 @@ app:
 server:
   # debug release test
   model: release
-  port: 3688
+  port: 3388
   cors: true
   # 接口限流
   rate:
@@ -61,7 +61,7 @@ log:
   # 日志等级, trace, debug, info, warn, error, fatal
   level: info
   file:
-    path: ./
+    path: ./logs
     name: GinMasterReWi_log.log
 
 upload:

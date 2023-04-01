@@ -18,3 +18,16 @@ go mod tidy
 # 运行项目
 go run main.go
 ```
+
+## Git 操作
+
+```bash
+git branch -a
+git checkout -b GinMasterReWi origin/GinMasterReWi
+
+# do something
+
+git add --all
+git commit -m "Update branch content"
+git push -u origin GinMasterReWi:GinMasterReWi
+```

@@ -59,7 +59,7 @@ export default defineComponent({
 				'🎉🎉🔥基于vue3.x 、Typescript、vite、Element plus等',
 				'适配手机、平板、pc的后台开源免费模板库（vue2.x请切换vue-prev-admin分支）',
 				'仓库地址：https://gitee.com/PandaAdmin/PandaX',
-				'演示地址：https://PandaGoAdmin.gitee.io/PandaUi-preview/#/login',
+				'演示地址：https://PandaGoAdmin.gitee.io/Vue3MasterReWi-preview/#/login',
 			],
 			tableData: [
 				{

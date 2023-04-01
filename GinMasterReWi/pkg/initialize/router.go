@@ -10,8 +10,6 @@ import (
 	resRouter "GinMasterReWi/apps/resource/router"
 	sysRouter "GinMasterReWi/apps/system/router"
 
-	ruleRouter "GinMasterReWi/apps/rule/router"
-
 	"GinMasterReWi/pkg/middleware"
 )
 
@@ -64,10 +62,6 @@ func InitRouter() *transport.HttpServer {
 	{
 		resRouter.InitResOssRouter(container)
 		resRouter.InitResEmailsRouter(container)
-	}
-	// 规则
-	{
-		ruleRouter.InitRuleNoticeRouter(container)
 	}
 
 	// api接口

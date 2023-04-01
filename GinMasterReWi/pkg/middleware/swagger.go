@@ -27,15 +27,15 @@ func enrichSwaggerObject(swo *spec.Swagger) {
 			Description: "这是GinMasterReWi框架文档，根据文档调用API",
 			Contact: &spec.ContactInfo{
 				ContactInfoProps: spec.ContactInfoProps{
-					Name:  "GinMasterReWi 熊猫",
-					Email: "2417920382@qq.com",
-					URL:   "https://github.com/XM-GO/GinMasterReWi",
+					Name:  "GinMasterReWi 总怿窗",
+					Email: "1871002801@qq.com",
+					URL:   "https://github.com/Re-Wi/MasterReWi",
 				},
 			},
 			License: &spec.License{
 				LicenseProps: spec.LicenseProps{
 					Name: "MIT",
-					URL:  "https://github.com/XM-GO/GinMasterReWi",
+					URL:  "https://github.com/Re-Wi/MasterReWi",
 				},
 			},
 			Version: "1.0.0",

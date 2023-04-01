@@ -249,14 +249,14 @@ export default {
     // 初始化言语国际化
     const initI18n = () => {
       switch (Local.get("themeConfig").globalI18n) {
-      //   case "zh-cn":
-      //     state.disabledI18n = "zh-cn";
-      //     setI18nConfig("zh-cn");
-      //     break;
-      //   case "en":
-      //     state.disabledI18n = "en";
-      //     setI18nConfig("en");
-      //     break;
+        // case "zh-cn":
+        //   state.disabledI18n = "zh-cn";
+        //   setI18nConfig("zh-cn");
+        //   break;
+        // case "en":
+        //   state.disabledI18n = "en";
+        //   setI18nConfig("en");
+        //   break;
       }
     };
     const portalChange = async (porid:any)=>{

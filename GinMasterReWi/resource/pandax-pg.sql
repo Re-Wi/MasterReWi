@@ -5,7 +5,7 @@
  Source Server Type    : PostgreSQL
  Source Server Version : 120001
  Source Host           : localhost:5432
- Source Catalog        : GinMasterReWi
+ Source Catalog        : pandax
  Source Schema         : public
 
  Target Server Type    : PostgreSQL
@@ -1229,7 +1229,7 @@ CREATE TABLE "public"."sys_users" (
 -- ----------------------------
 -- Records of sys_users
 -- ----------------------------
-INSERT INTO "public"."sys_users" VALUES (1, 'GinMasterReWi', '13818888888',1, 1, NULL, '', '0', '1@qq.com', 2, 1, '1', '1', 'admin', '1', NULL, '0', '2021-12-03 09:46:55+00', '2021-12-03 10:51:34+00', NULL, 'panda', '$2a$10$EXMJ5huCCTlCmP2ITFkAJ.4Mgmq3JcZGUvtE.KLX8j7FmhiiTEEya');
+INSERT INTO "public"."sys_users" VALUES (1, 'pandax', '13818888888',1, 1, NULL, '', '0', '1@qq.com', 2, 1, '1', '1', 'admin', '1', NULL, '0', '2021-12-03 09:46:55+00', '2021-12-03 10:51:34+00', NULL, 'panda', '$2a$10$EXMJ5huCCTlCmP2ITFkAJ.4Mgmq3JcZGUvtE.KLX8j7FmhiiTEEya');
 INSERT INTO "public"."sys_users" VALUES (4, 'panda', '18353366912',1, 2, '', '', '0', '2417920382@qq.com', 2, 4, '2', '4,1', 'panda', '', '', '0', '2021-12-19 15:58:09+00', '2021-12-19 16:06:54+00', NULL, 'admin', '$2a$10$cKFFTCzGOvaIHHJY2K45Zuwt8TD6oPzYi4s5MzYIBAWCLL6ZhouP2');
 
 -- ----------------------------

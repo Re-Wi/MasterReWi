@@ -8,8 +8,8 @@ import (
     "github.com/XM-GO/PandaKit/model"
     "github.com/XM-GO/PandaKit/restfulx"
 
-	"GinMasterReWi/apps/{{.PackageName}}/entity"
-	"GinMasterReWi/apps/{{.PackageName}}/services"
+	"pandax/apps/{{.PackageName}}/entity"
+	"pandax/apps/{{.PackageName}}/services"
 	"github.com/XM-GO/PandaKit/utils"
 )
 
